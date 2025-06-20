@@ -7,7 +7,7 @@ output:
     toc_float: true
 ---
 
-# Data Visualization Project 03
+# Data Visualization Project 03 Matt is trolling me
 
 In this exercise you will explore methods to create different types of data visualizations (such as plotting text data, or exploring the distributions of continuous variables).
 
